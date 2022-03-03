@@ -1,3 +1,9 @@
+---
+layout: page
+title: Creative Order Release
+permalink: /creativeorder/
+---
+
 # [0.63.0](https://github.com/Shuttlerock/creative-order/compare/v0.62.2...v0.63.0) (2022-03-03)
 
 
