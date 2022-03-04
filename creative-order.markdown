@@ -3,6 +3,12 @@ layout: page
 title: Creative Order Release
 permalink: /creativeorder/
 ---
+# [0.64.0](https://github.com/Shuttlerock/creative-order/compare/v0.63.0...v0.64.0) (2022-03-03)
+
+
+### Features
+
+* add internal params to revision page link on delivery page ([#864](https://github.com/Shuttlerock/creative-order/issues/864)) ([ac1c37c](https://github.com/Shuttlerock/creative-order/commit/ac1c37c5f483c02539411b135ba816f74b7b777d))
 
 # [0.63.0](https://github.com/Shuttlerock/creative-order/compare/v0.62.2...v0.63.0) (2022-03-03)
 
