@@ -3,6 +3,15 @@ layout: page
 title: Creative Revision Release
 permalink: /creativerevision/
 ---
+## [0.106.1](https://github.com/Shuttlerock/creative-revision/compare/v0.106.0...v0.106.1) (2022-03-04)
+
+
+### Bug Fixes
+
+* deliverable duration was saved in the wrong unit ([792187c](https://github.com/Shuttlerock/creative-revision/commit/792187c1005fa044104c8bf05fb843325b521a51))
+* migrate duration in database to correct unit ([d35114c](https://github.com/Shuttlerock/creative-revision/commit/d35114c858056df1ff5f88d570f056360c10d418))
+* support duration=0 for statics for compatibility with creative-order ([0742380](https://github.com/Shuttlerock/creative-revision/commit/0742380112da95970dce5c8e1cab58f1b43aec67))
+* use nanoseconds and uint64 in graphql schema inputs and outputs ([f3846e1](https://github.com/Shuttlerock/creative-revision/commit/f3846e197bb59b348d7b6de3c0c34ec1d89ac23e))
 
 # [0.106.0](https://github.com/Shuttlerock/creative-revision/compare/v0.105.0...v0.106.0) (2022-03-03)
 
